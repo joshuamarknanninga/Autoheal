@@ -1,0 +1,141 @@
+[
+  {
+    "targetPath": "/Users/joshuamarknanninga/Documents/Autoheal",
+    "scannedAt": "2026-04-05T01:19:35.010Z",
+    "startedAt": "2026-04-05T01:19:35.005Z",
+    "durationMs": 5,
+    "files": [
+      {
+        "path": "backend/src/healer.js",
+        "size": 4951,
+        "lines": 163,
+        "createdAt": "2026-04-05T01:00:40.465Z",
+        "updatedAt": "2026-04-05T01:00:40.465Z"
+      },
+      {
+        "path": "backend/src/memory.js",
+        "size": 3616,
+        "lines": 122,
+        "createdAt": "2026-04-05T01:00:40.465Z",
+        "updatedAt": "2026-04-05T01:00:40.465Z"
+      },
+      {
+        "path": "backend/src/reasoner.js",
+        "size": 3732,
+        "lines": 98,
+        "createdAt": "2026-04-05T01:00:40.465Z",
+        "updatedAt": "2026-04-05T01:00:40.466Z"
+      },
+      {
+        "path": "backend/src/scanner.js",
+        "size": 2058,
+        "lines": 86,
+        "createdAt": "2026-04-05T01:00:40.466Z",
+        "updatedAt": "2026-04-05T01:00:40.466Z"
+      },
+      {
+        "path": "backend/src/server.js",
+        "size": 6469,
+        "lines": 211,
+        "createdAt": "2026-04-05T01:00:40.466Z",
+        "updatedAt": "2026-04-05T01:00:40.466Z"
+      },
+      {
+        "path": "backend/src/simulator.js",
+        "size": 1121,
+        "lines": 30,
+        "createdAt": "2026-04-05T01:00:40.466Z",
+        "updatedAt": "2026-04-05T01:00:40.466Z"
+      },
+      {
+        "path": "backend/src/store.js",
+        "size": 1894,
+        "lines": 75,
+        "createdAt": "2026-04-05T01:00:40.466Z",
+        "updatedAt": "2026-04-05T01:00:40.466Z"
+      },
+      {
+        "path": "backend/src/utils.js",
+        "size": 1039,
+        "lines": 46,
+        "createdAt": "2026-04-05T01:00:40.466Z",
+        "updatedAt": "2026-04-05T01:00:40.466Z"
+      },
+      {
+        "path": "backend/tests/healer.test.js",
+        "size": 1794,
+        "lines": 59,
+        "createdAt": "2026-04-05T01:00:40.466Z",
+        "updatedAt": "2026-04-05T01:00:40.467Z"
+      },
+      {
+        "path": "frontend/src/App.jsx",
+        "size": 4461,
+        "lines": 154,
+        "createdAt": "2026-04-05T01:00:40.467Z",
+        "updatedAt": "2026-04-05T01:00:40.467Z"
+      },
+      {
+        "path": "frontend/src/api.js",
+        "size": 1109,
+        "lines": 52,
+        "createdAt": "2026-04-05T01:00:40.467Z",
+        "updatedAt": "2026-04-05T01:00:40.467Z"
+      },
+      {
+        "path": "frontend/src/components/FixList.jsx",
+        "size": 1455,
+        "lines": 42,
+        "createdAt": "2026-04-05T01:00:40.467Z",
+        "updatedAt": "2026-04-05T01:00:40.467Z"
+      },
+      {
+        "path": "frontend/src/components/HistoryPanel.jsx",
+        "size": 1597,
+        "lines": 46,
+        "createdAt": "2026-04-05T01:00:40.467Z",
+        "updatedAt": "2026-04-05T01:00:40.468Z"
+      },
+      {
+        "path": "frontend/src/components/IssueList.jsx",
+        "size": 991,
+        "lines": 31,
+        "createdAt": "2026-04-05T01:00:40.468Z",
+        "updatedAt": "2026-04-05T01:00:40.468Z"
+      },
+      {
+        "path": "frontend/src/components/SimulationPanel.jsx",
+        "size": 707,
+        "lines": 20,
+        "createdAt": "2026-04-05T01:00:40.468Z",
+        "updatedAt": "2026-04-05T01:00:40.468Z"
+      },
+      {
+        "path": "frontend/src/components/SummaryCards.jsx",
+        "size": 789,
+        "lines": 22,
+        "createdAt": "2026-04-05T01:00:40.468Z",
+        "updatedAt": "2026-04-05T01:00:40.468Z"
+      },
+      {
+        "path": "frontend/src/main.jsx",
+        "size": 240,
+        "lines": 11,
+        "createdAt": "2026-04-05T01:00:40.468Z",
+        "updatedAt": "2026-04-05T01:00:40.468Z"
+      },
+      {
+        "path": "frontend/vite.config.js",
+        "size": 167,
+        "lines": 10,
+        "createdAt": "2026-04-05T01:00:40.468Z",
+        "updatedAt": "2026-04-05T01:00:40.468Z"
+      }
+    ],
+    "totals": {
+      "fileCount": 18,
+      "totalLines": 1278,
+      "totalSize": 38190
+    }
+  }
+]

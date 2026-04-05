@@ -63,9 +63,9 @@ npm run dev
 ```
 
 - Backend API: `http://localhost:5050`
-- Frontend UI: `http://localhost:5173`
+- Frontend UI: `http://127.0.0.1:5173`
 
-- Frontend dev mode disables Vite HMR WebSockets (`hmr: false`, React fast refresh off) to avoid websocket connection failures in constrained browser/network setups; refresh the page after UI edits.
+- Frontend Vite HMR is explicitly pinned to `ws://127.0.0.1:5173` to avoid localhost/loopback websocket mismatches in Chrome devtools.
 
 Run backend only:
 

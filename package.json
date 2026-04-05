@@ -5,8 +5,11 @@
   "description": "AutoHeal monorepo: local-first self-healing codebase engine",
   "scripts": {
     "install:all": "npm --prefix backend install && npm --prefix frontend install",
+    "predev": "npm run install:all",
     "dev": "bash -lc 'npm run dev:backend & npm run dev:frontend; wait'",
+    "predev:backend": "npm --prefix backend install",
     "dev:backend": "npm --prefix backend run dev",
+    "predev:frontend": "npm --prefix frontend install",
     "dev:frontend": "npm --prefix frontend run dev",
     "test": "npm --prefix backend test"
   }

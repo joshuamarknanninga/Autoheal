@@ -1,0 +1,383 @@
+{
+  "repository": "/Users/joshuamarknanninga/Documents/Autoheal",
+  "firstSeenAt": "2026-04-05T01:19:35.011Z",
+  "lastUpdatedAt": "2026-04-05T01:19:35.011Z",
+  "snapshots": [
+    {
+      "scannedAt": "2026-04-05T01:19:35.010Z",
+      "totals": {
+        "fileCount": 18,
+        "totalLines": 1278,
+        "totalSize": 38190
+      },
+      "issueCount": 0,
+      "fixCount": 0
+    }
+  ],
+  "files": {
+    "backend/src/healer.js": {
+      "firstSeenAt": "2026-04-05T01:19:35.010Z",
+      "lastSeenAt": "2026-04-05T01:19:35.010Z",
+      "scans": 1,
+      "history": [
+        {
+          "scannedAt": "2026-04-05T01:19:35.010Z",
+          "lines": 163,
+          "size": 4951,
+          "updatedAt": "2026-04-05T01:00:40.465Z"
+        }
+      ],
+      "trend": {
+        "growthRate": 0,
+        "sizeDelta": 0,
+        "lineDelta": 0
+      },
+      "issueHits": 0,
+      "fixHits": 0
+    },
+    "backend/src/memory.js": {
+      "firstSeenAt": "2026-04-05T01:19:35.010Z",
+      "lastSeenAt": "2026-04-05T01:19:35.010Z",
+      "scans": 1,
+      "history": [
+        {
+          "scannedAt": "2026-04-05T01:19:35.010Z",
+          "lines": 122,
+          "size": 3616,
+          "updatedAt": "2026-04-05T01:00:40.465Z"
+        }
+      ],
+      "trend": {
+        "growthRate": 0,
+        "sizeDelta": 0,
+        "lineDelta": 0
+      },
+      "issueHits": 0,
+      "fixHits": 0
+    },
+    "backend/src/reasoner.js": {
+      "firstSeenAt": "2026-04-05T01:19:35.010Z",
+      "lastSeenAt": "2026-04-05T01:19:35.010Z",
+      "scans": 1,
+      "history": [
+        {
+          "scannedAt": "2026-04-05T01:19:35.010Z",
+          "lines": 98,
+          "size": 3732,
+          "updatedAt": "2026-04-05T01:00:40.466Z"
+        }
+      ],
+      "trend": {
+        "growthRate": 0,
+        "sizeDelta": 0,
+        "lineDelta": 0
+      },
+      "issueHits": 0,
+      "fixHits": 0
+    },
+    "backend/src/scanner.js": {
+      "firstSeenAt": "2026-04-05T01:19:35.010Z",
+      "lastSeenAt": "2026-04-05T01:19:35.010Z",
+      "scans": 1,
+      "history": [
+        {
+          "scannedAt": "2026-04-05T01:19:35.010Z",
+          "lines": 86,
+          "size": 2058,
+          "updatedAt": "2026-04-05T01:00:40.466Z"
+        }
+      ],
+      "trend": {
+        "growthRate": 0,
+        "sizeDelta": 0,
+        "lineDelta": 0
+      },
+      "issueHits": 0,
+      "fixHits": 0
+    },
+    "backend/src/server.js": {
+      "firstSeenAt": "2026-04-05T01:19:35.010Z",
+      "lastSeenAt": "2026-04-05T01:19:35.010Z",
+      "scans": 1,
+      "history": [
+        {
+          "scannedAt": "2026-04-05T01:19:35.010Z",
+          "lines": 211,
+          "size": 6469,
+          "updatedAt": "2026-04-05T01:00:40.466Z"
+        }
+      ],
+      "trend": {
+        "growthRate": 0,
+        "sizeDelta": 0,
+        "lineDelta": 0
+      },
+      "issueHits": 0,
+      "fixHits": 0
+    },
+    "backend/src/simulator.js": {
+      "firstSeenAt": "2026-04-05T01:19:35.010Z",
+      "lastSeenAt": "2026-04-05T01:19:35.010Z",
+      "scans": 1,
+      "history": [
+        {
+          "scannedAt": "2026-04-05T01:19:35.010Z",
+          "lines": 30,
+          "size": 1121,
+          "updatedAt": "2026-04-05T01:00:40.466Z"
+        }
+      ],
+      "trend": {
+        "growthRate": 0,
+        "sizeDelta": 0,
+        "lineDelta": 0
+      },
+      "issueHits": 0,
+      "fixHits": 0
+    },
+    "backend/src/store.js": {
+      "firstSeenAt": "2026-04-05T01:19:35.010Z",
+      "lastSeenAt": "2026-04-05T01:19:35.010Z",
+      "scans": 1,
+      "history": [
+        {
+          "scannedAt": "2026-04-05T01:19:35.010Z",
+          "lines": 75,
+          "size": 1894,
+          "updatedAt": "2026-04-05T01:00:40.466Z"
+        }
+      ],
+      "trend": {
+        "growthRate": 0,
+        "sizeDelta": 0,
+        "lineDelta": 0
+      },
+      "issueHits": 0,
+      "fixHits": 0
+    },
+    "backend/src/utils.js": {
+      "firstSeenAt": "2026-04-05T01:19:35.010Z",
+      "lastSeenAt": "2026-04-05T01:19:35.010Z",
+      "scans": 1,
+      "history": [
+        {
+          "scannedAt": "2026-04-05T01:19:35.010Z",
+          "lines": 46,
+          "size": 1039,
+          "updatedAt": "2026-04-05T01:00:40.466Z"
+        }
+      ],
+      "trend": {
+        "growthRate": 0,
+        "sizeDelta": 0,
+        "lineDelta": 0
+      },
+      "issueHits": 0,
+      "fixHits": 0
+    },
+    "backend/tests/healer.test.js": {
+      "firstSeenAt": "2026-04-05T01:19:35.010Z",
+      "lastSeenAt": "2026-04-05T01:19:35.010Z",
+      "scans": 1,
+      "history": [
+        {
+          "scannedAt": "2026-04-05T01:19:35.010Z",
+          "lines": 59,
+          "size": 1794,
+          "updatedAt": "2026-04-05T01:00:40.467Z"
+        }
+      ],
+      "trend": {
+        "growthRate": 0,
+        "sizeDelta": 0,
+        "lineDelta": 0
+      },
+      "issueHits": 0,
+      "fixHits": 0
+    },
+    "frontend/src/App.jsx": {
+      "firstSeenAt": "2026-04-05T01:19:35.010Z",
+      "lastSeenAt": "2026-04-05T01:19:35.010Z",
+      "scans": 1,
+      "history": [
+        {
+          "scannedAt": "2026-04-05T01:19:35.010Z",
+          "lines": 154,
+          "size": 4461,
+          "updatedAt": "2026-04-05T01:00:40.467Z"
+        }
+      ],
+      "trend": {
+        "growthRate": 0,
+        "sizeDelta": 0,
+        "lineDelta": 0
+      },
+      "issueHits": 0,
+      "fixHits": 0
+    },
+    "frontend/src/api.js": {
+      "firstSeenAt": "2026-04-05T01:19:35.010Z",
+      "lastSeenAt": "2026-04-05T01:19:35.010Z",
+      "scans": 1,
+      "history": [
+        {
+          "scannedAt": "2026-04-05T01:19:35.010Z",
+          "lines": 52,
+          "size": 1109,
+          "updatedAt": "2026-04-05T01:00:40.467Z"
+        }
+      ],
+      "trend": {
+        "growthRate": 0,
+        "sizeDelta": 0,
+        "lineDelta": 0
+      },
+      "issueHits": 0,
+      "fixHits": 0
+    },
+    "frontend/src/components/FixList.jsx": {
+      "firstSeenAt": "2026-04-05T01:19:35.010Z",
+      "lastSeenAt": "2026-04-05T01:19:35.010Z",
+      "scans": 1,
+      "history": [
+        {
+          "scannedAt": "2026-04-05T01:19:35.010Z",
+          "lines": 42,
+          "size": 1455,
+          "updatedAt": "2026-04-05T01:00:40.467Z"
+        }
+      ],
+      "trend": {
+        "growthRate": 0,
+        "sizeDelta": 0,
+        "lineDelta": 0
+      },
+      "issueHits": 0,
+      "fixHits": 0
+    },
+    "frontend/src/components/HistoryPanel.jsx": {
+      "firstSeenAt": "2026-04-05T01:19:35.010Z",
+      "lastSeenAt": "2026-04-05T01:19:35.010Z",
+      "scans": 1,
+      "history": [
+        {
+          "scannedAt": "2026-04-05T01:19:35.010Z",
+          "lines": 46,
+          "size": 1597,
+          "updatedAt": "2026-04-05T01:00:40.468Z"
+        }
+      ],
+      "trend": {
+        "growthRate": 0,
+        "sizeDelta": 0,
+        "lineDelta": 0
+      },
+      "issueHits": 0,
+      "fixHits": 0
+    },
+    "frontend/src/components/IssueList.jsx": {
+      "firstSeenAt": "2026-04-05T01:19:35.010Z",
+      "lastSeenAt": "2026-04-05T01:19:35.010Z",
+      "scans": 1,
+      "history": [
+        {
+          "scannedAt": "2026-04-05T01:19:35.010Z",
+          "lines": 31,
+          "size": 991,
+          "updatedAt": "2026-04-05T01:00:40.468Z"
+        }
+      ],
+      "trend": {
+        "growthRate": 0,
+        "sizeDelta": 0,
+        "lineDelta": 0
+      },
+      "issueHits": 0,
+      "fixHits": 0
+    },
+    "frontend/src/components/SimulationPanel.jsx": {
+      "firstSeenAt": "2026-04-05T01:19:35.010Z",
+      "lastSeenAt": "2026-04-05T01:19:35.010Z",
+      "scans": 1,
+      "history": [
+        {
+          "scannedAt": "2026-04-05T01:19:35.010Z",
+          "lines": 20,
+          "size": 707,
+          "updatedAt": "2026-04-05T01:00:40.468Z"
+        }
+      ],
+      "trend": {
+        "growthRate": 0,
+        "sizeDelta": 0,
+        "lineDelta": 0
+      },
+      "issueHits": 0,
+      "fixHits": 0
+    },
+    "frontend/src/components/SummaryCards.jsx": {
+      "firstSeenAt": "2026-04-05T01:19:35.010Z",
+      "lastSeenAt": "2026-04-05T01:19:35.010Z",
+      "scans": 1,
+      "history": [
+        {
+          "scannedAt": "2026-04-05T01:19:35.010Z",
+          "lines": 22,
+          "size": 789,
+          "updatedAt": "2026-04-05T01:00:40.468Z"
+        }
+      ],
+      "trend": {
+        "growthRate": 0,
+        "sizeDelta": 0,
+        "lineDelta": 0
+      },
+      "issueHits": 0,
+      "fixHits": 0
+    },
+    "frontend/src/main.jsx": {
+      "firstSeenAt": "2026-04-05T01:19:35.010Z",
+      "lastSeenAt": "2026-04-05T01:19:35.010Z",
+      "scans": 1,
+      "history": [
+        {
+          "scannedAt": "2026-04-05T01:19:35.010Z",
+          "lines": 11,
+          "size": 240,
+          "updatedAt": "2026-04-05T01:00:40.468Z"
+        }
+      ],
+      "trend": {
+        "growthRate": 0,
+        "sizeDelta": 0,
+        "lineDelta": 0
+      },
+      "issueHits": 0,
+      "fixHits": 0
+    },
+    "frontend/vite.config.js": {
+      "firstSeenAt": "2026-04-05T01:19:35.010Z",
+      "lastSeenAt": "2026-04-05T01:19:35.010Z",
+      "scans": 1,
+      "history": [
+        {
+          "scannedAt": "2026-04-05T01:19:35.010Z",
+          "lines": 10,
+          "size": 167,
+          "updatedAt": "2026-04-05T01:00:40.468Z"
+        }
+      ],
+      "trend": {
+        "growthRate": 0,
+        "sizeDelta": 0,
+        "lineDelta": 0
+      },
+      "issueHits": 0,
+      "fixHits": 0
+    }
+  },
+  "repeatedRisks": {},
+  "repeatedFixes": {},
+  "issueCountsByType": {},
+  "fixCountsByType": {}
+}

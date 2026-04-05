@@ -65,7 +65,7 @@ npm run dev
 - Backend API: `http://localhost:5050`
 - Frontend UI: `http://localhost:5173`
 
-- Frontend dev server runs with HMR WebSocket disabled (`hmr: false`) for reliability in constrained/local proxy environments; refresh the page after UI edits.
+- Frontend HMR is explicitly pinned to `ws://localhost:5173` (`host`, `port`, and `clientPort`) to avoid websocket mismatch errors in Chrome devtools.
 
 Run backend only:
 

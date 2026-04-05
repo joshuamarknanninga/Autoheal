@@ -65,6 +65,8 @@ npm run dev
 - Backend API: `http://localhost:5050`
 - Frontend UI: `http://localhost:5173`
 
+- Frontend dev server runs with HMR WebSocket disabled (`hmr: false`) for reliability in constrained/local proxy environments; refresh the page after UI edits.
+
 Run backend only:
 
 ```bash

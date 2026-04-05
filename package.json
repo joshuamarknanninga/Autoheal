@@ -4,13 +4,10 @@
   "private": true,
   "description": "AutoHeal monorepo: local-first self-healing codebase engine",
   "scripts": {
-    "install:all": "npm install && npm --prefix backend install && npm --prefix frontend install",
-    "dev": "concurrently \"npm run dev:backend\" \"npm run dev:frontend\"",
+    "install:all": "npm --prefix backend install && npm --prefix frontend install",
+    "dev": "bash -lc 'npm run dev:backend & npm run dev:frontend; wait'",
     "dev:backend": "npm --prefix backend run dev",
     "dev:frontend": "npm --prefix frontend run dev",
     "test": "npm --prefix backend test"
-  },
-  "devDependencies": {
-    "concurrently": "^9.0.1"
   }
 }

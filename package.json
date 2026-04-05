@@ -1,0 +1,18 @@
+{
+  "name": "autoheal",
+  "private": true,
+  "version": "1.0.0",
+  "description": "AutoHeal monorepo: local-first self-healing codebase engine",
+  "workspaces": [
+    "backend",
+    "frontend"
+  ],
+  "scripts": {
+    "install:all": "npm install --workspaces --include-workspace-root --no-audit --no-fund",
+    "dev": "npm run install:all && npm run dev:workspaces",
+    "dev:workspaces": "bash -lc 'npm run dev --workspace backend & npm run dev --workspace frontend; wait'",
+    "dev:backend": "npm run dev --workspace backend",
+    "dev:frontend": "npm run dev --workspace frontend",
+    "test": "npm run test --workspace backend"
+  }
+}
